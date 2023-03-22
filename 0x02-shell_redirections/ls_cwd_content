@@ -1,5 +1,5 @@
 total 44
-drwxrwxr-x 2 vagrant vagrant 4096 Mar 21 16:02 .
+drwxrwxr-x 2 vagrant vagrant 4096 Mar 22 19:09 .
 drwxrwxr-x 6 vagrant vagrant 4096 Mar 21 08:47 ..
 -rwxrwxr-x 1 vagrant vagrant   32 Mar 21 09:49 0-hello_world
 -rwxrwxr-x 1 vagrant vagrant   34 Mar 21 09:11 1-confused_smiley
@@ -26,7 +26,7 @@ drwxrwxr-x 6 vagrant vagrant 4096 Mar 21 08:47 ..
 -rwxrwxr-x 1 vagrant vagrant   29 Mar 21 09:21 5-firstlines
 -rwxrwxr-x 1 vagrant vagrant   39 Mar 21 09:30 6-third_line
 -rwxrwxr-x 1 vagrant vagrant    0 Mar 21 08:51 7-file
--rwxrwxr-x 1 vagrant vagrant   37 Mar 21 16:00 8-cwd_state
+-rwxrwxr-x 1 vagrant vagrant   37 Mar 22 19:09 8-cwd_state
 -rwxrwxr-x 1 vagrant vagrant    0 Mar 21 08:51 9-duplicate_last_line
 -rw-rw-r-- 1 vagrant vagrant  728 Mar 21 09:24 iacta
--rw-rw-r-- 1 vagrant vagrant    0 Mar 21 16:02 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant    0 Mar 22 19:09 ls_cwd_content
