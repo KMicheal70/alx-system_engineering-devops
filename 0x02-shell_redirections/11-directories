@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . | sort | wc -l -2
+find . -type d -not -name '.' | wc -l
