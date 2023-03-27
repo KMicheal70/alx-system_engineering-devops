@@ -1,2 +1,2 @@
 #!/bin/bash
- echo -e {a..z}{a..z}"\n" |tr "oo" " "| tr -d " " | head -n 676
+printf "%s\n" {a..z}{a..z} | grep -v "oo"
